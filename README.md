@@ -6,7 +6,7 @@ Almost full time frontend developer, sometimes backend and video game developmen
 </p>
 
 <p align='center'>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1280px-React.svg.png" width="60"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1280px-Angular_full_color_logo.svg.png" width="60"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" width="80"/> <img src="http://3con14.biz/i2017bto2/_data/programacion/javascript/javascript-logo.png" width="60"/><img src="https://unity3d.com/profiles/unity3d/themes/unity/images/pages/branding_trademarks/unity-masterbrand-black.png" width="100"/>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1280px-React.svg.png" width="60"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1280px-Angular_full_color_logo.svg.png" width="60"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" width="80"/> <img src="http://3con14.biz/i2017bto2/_data/programacion/javascript/javascript-logo.png" width="60"/><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="60"/>  
 </p>
 <br>
 <br>
